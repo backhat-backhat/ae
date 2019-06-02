@@ -1,5 +1,5 @@
-#ifndef __AE++_H__
-#define __AE++_H__
+#ifndef __AEPP_H__
+#define __AEPP_H__
 
 #ifdef __cplusplus
 extern "C" {
@@ -12,4 +12,4 @@ extern "C" {
 }
 #endif
 
-#endif // __AE++_H__
+#endif // __AEPP_H__
